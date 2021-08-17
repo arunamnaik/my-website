@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background: linear-gradient(black,orange,red);
+    color: whitesmoke;
+}
+img{
+    height: 500px;
+    width: 500px;
+    transition: transform 0.2s
+}
+img:hover{
+transform: scale(0.8);
+}
